@@ -60,16 +60,16 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "light grey"
+  # color = "light grey"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "dolphins_fishies.jpg"  # Name of image in `static/img/`.
-  # image = "Rotto 3rd year trip iv (113) (1).JPG"  # Name of image in `static/img/`.
-   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "dolphins_fishies.jpg"  # Name of image in `static/img/`.
+    image = "Rotto 3rd year trip iv (113) (1).JPG"  # Name of image in `static/img/`.
+    image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
    text_color_light = true
