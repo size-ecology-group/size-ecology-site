@@ -28,7 +28,7 @@ height = "600px"
   
 # call-to-action buttons
  cta_label ="Get mizer"
- cta_url = "https://cran.r-project.org/web/packages/mizer/index.html"
+ cta_url = "https://sizespectrum.github.io/mizer/"
  cta_icon_pack = "fa"
  cta_icon = "cogs"
 
