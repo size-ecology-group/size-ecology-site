@@ -15,17 +15,7 @@ projects: []
 subtitle: ''
 summary: 
 tags: 
-- Bacteria to Whales
+- Rewiring Food Webs
 
-title: 'Modelling ecosytems from bacteria to whales and people'
+title: 'Rewiring Marine Foodwebs Under Climate Change'
 ---
-
-## **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful # color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and # _language packs_ included!**
-
-
-
-## License
-
-# Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-# Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
