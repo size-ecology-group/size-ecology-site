@@ -19,8 +19,8 @@ height = "600px"
 
 [[item]]
   title = ""
-  content = "Hot off the press: Evolution of Global Fishing Fleets"
-  align = "center"
+  content = "Evolution of Global Fishing Fleets"
+  align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "fish_and_boats.jpg"  # Image path relative to your `static/img/` folder.
@@ -34,11 +34,11 @@ height = "600px"
 
 [[item]]
   title = ""
-  content = "Course and Workshop on Size Spectrum Modelling"
+  content = "Training and Advances in Size Spectrum Modelling"
   align = ""
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "fish.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "lysekil.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   # call-to-action buttons
  cta_label ="Join us in Sweden"
@@ -52,7 +52,7 @@ height = "600px"
   align = ""
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "bird-fish.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "fish.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
