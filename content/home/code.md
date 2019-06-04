@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100 # Order that this section will appear.
+weight = 5 # Order that this section will appear.
 
-title = "Projects and Code"
+title = "Projects"
 subtitle = ""
 # "Size-based interdisciplinary ecology and modelling"
 
@@ -26,17 +26,17 @@ subtitle = ""
    #name = "All"
    #tag = "*"
   
-  [[content.filter_button]]
-   name = "Climate change impacts"
-   tag = "Climate Change"
+  #[[content.filter_button]]
+   #name = "Climate change impacts"
+   #tag = "Climate Change"
   
-  [[content.filter_button]]
-   name = "Population size and other traits"
-   tag = "Size and traits"
+  #[[content.filter_button]]
+   #name = "Population size and other traits"
+   #tag = "Size and traits"
   
- [[content.filter_button]]
-  name = "Bacteria to Whales"
-  tag = "Bacteria to Whales"
+ #[[content.filter_button]]
+  #name = "Bacteria to Whales"
+  #tag = "Bacteria to Whales"
 
   
 
@@ -60,19 +60,19 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "light grey"
+   color = "light grey"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "dolphins_fishies.jpg"  # Name of image in `static/img/`.
+  # image = "dolphins_fishies.jpg"  # Name of image in `static/img/`.
   # image = "Rotto 3rd year trip iv (113) (1).JPG"  # Name of image in `static/img/`.
-   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-   text_color_light = true
+   text_color_light = false
   
 [advanced]
  # Custom CSS. 
