@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 lastmod: "2019-04-17T00:00:00Z"
-projects: []
+projects: [rewiring]
 subtitle: ''
 summary: 
 tags: 
@@ -19,3 +19,4 @@ tags:
 
 title: 'Rewiring Marine Foodwebs Under Climate Change'
 ---
+ ARC Project Description
