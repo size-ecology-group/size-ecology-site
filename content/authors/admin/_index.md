@@ -56,3 +56,5 @@ user_groups:
 #- Principal Investiagtor
 
 ---
+
+Julia's research seeks to understand and predict how marine ecosystems respond to human-induced and environmental change. Her work has contributed to understanding how body size and other ecological traits affect the structure, dynamics and resilience of ecosystems and how this knowledge can be used to predict the ecosystem consequences of fishing and climate change. She has developed dynamical size-structured models and indicators of the ecosystem effects of fishing at the global, regional and local scale which have been used to inform indicators, targets and trade-offs for marine environmental management. Julia also has wide ecological and interdisciplinary research interests including comparison of terrestrial and aquatic food webs and fisheries and agriculture sectors. She is a coordinator of the multi-model ensemble project Fish-MIP.

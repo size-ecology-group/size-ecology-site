@@ -1,7 +1,7 @@
 +++
 # Blank home section created with the blank widget.
 # To create more space for photo
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2 # Order that this section will appear.
