@@ -7,7 +7,7 @@ draft: false
 featured: false
 
 image:
-  caption: 'Image credit: Cottrell et al. 2017, modifications by A. Johne'
+  caption: 'Image credit: Julia Blanchard'
   focal_point: ""
   preview_only: false
 lastmod: "2019-04-17T00:00:00Z"
@@ -15,9 +15,9 @@ projects: []
 subtitle: ''
 summary: 
 tags: 
-- Climate Change
+- Tools
 
-title: 'Projecting climate change impacts for oceans and food systems'
+title: 'Modelling and analytical tools'
 ---
 
 ## **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful # color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and # _language packs_ included!**
