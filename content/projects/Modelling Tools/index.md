@@ -17,7 +17,7 @@ summary:
 tags: 
 - Size and traits
 
-title: 'Predicting changes in population size, body size and other traits'
+title: 'Modelling and analytical tools'
 ---
 
 ## **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful # color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and # _language packs_ included!**

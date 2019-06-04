@@ -20,12 +20,3 @@ tags:
 title: 'Projecting climate change impacts for oceans and food systems'
 ---
 
-## **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful # color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and # _language packs_ included!**
-
-
-
-## License
-
-# Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-# Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
