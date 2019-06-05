@@ -47,5 +47,5 @@ user_groups:
 
 ---
 
-Alex has been working as a research assistant with the lab for the past 5 months and is going to look into applying a simple size spectrum model to aquaculture for her Honours project starting in July. 
+Originally from Munich, Germany, Alex moved to Hobart about 3 years ago to study Marine Biology at IMAS. Since graduating in December she has been working as a research assistant for the lab group and was one of the main contributors to the website. She will be starting her Honours project in July which will focus on applying a simple size spectrum model to a recirculating aquaculture system (RAS).
 
