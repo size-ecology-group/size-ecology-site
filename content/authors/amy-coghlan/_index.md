@@ -48,5 +48,4 @@ user_groups:
 #- PhD Students
 
 ---
-
-Amy currently investigates the relative importance of pelagic versus different types of benthic primary production (such as coral, macroalgal or microphytobenthos) on shallow reefs. 
+Amy is a marine zoologist with experience working in climate change, fisheries and ecological research groups, from both the small-scale field to global-scale, big data projects. From her undergraduate degree at the University of Western Australia, Amy has gone on to work and study at the University of Otago (New Zealand), the University of British Colombia (Canada) and the Fundacion Charles Darwin (Galapagos, Ecuador). Amy qualified as PADI SCUBA-dive Instructor in Vancouver (Canada), and received her Divemaster in Komodo (Indonesia). Currently undertaking her PhD at the Institute for Marine and Antarctic Studies in Hobart (Australia), Amy is conducting an extensive fish collection to investigate the trophodynamics of coastal reef systems. This project has taken her on spearfishing expeditions to island and coastal locations along Australia's eastern seaboard.

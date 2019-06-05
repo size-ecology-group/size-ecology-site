@@ -13,7 +13,7 @@ gallery_item:
 
 image:
   caption: 'Image credit: curiosityandheroin.org'
-  focal_point: ""
+  focal_point: "center"
   preview_only: false
 lastmod: "2019-04-17T00:00:00Z"
 projects: []
