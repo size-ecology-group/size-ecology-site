@@ -57,4 +57,6 @@ user_groups:
 
 ---
 
-Richard's research aims to cross the traditional land-sea management boundaries and quantify the spectrum of interactions between agriculture, aquaculture and fisheries. Understanding the scale of these links and how they may vary under changing economies, demography and climate will enable important decisions to be made on how best to optimise future food security whilst minimising environmental impact.
+Richard trained as an ecologist at the University of Southampton in the UK before working for several years running environmental education and monitoring programmes, primarily in Southeast Asia. His work provided him with rich experiences working in biodiverse tropical ecosystems but he became acutely aware that some of the greatest sustainability challenges facing our natural systems came from human food production. After returning to the UK and completing a research masters in marine ecosystem-based management, Richard moved to Tasmania to work on food system sustainability.
+
+Using data synthesis and modelling approaches, Richard’s research crosses traditional boundaries of food systems, aiming to understand the links, interactions and trade-offs that connect agriculture, fisheries and aquaculture sectors. Understanding these connections and how they may vary under changing economies, demography and climate will be crucial for decision-making on improving food system sustainability and minimising adverse outcomes for our natural systems.
