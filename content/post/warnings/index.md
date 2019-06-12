@@ -1,6 +1,5 @@
 ---
 authors:
-- admin
 - alex-johne
 categories: []
 date: "2019-06-04"
