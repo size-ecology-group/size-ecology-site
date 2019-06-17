@@ -55,4 +55,7 @@ user_groups:
 
 ---
 
-After receiving his Bachelor's degree in Biology of Organisms, Populations and Ecosystems from the Université d'Auvergne Clermant-Ferrand I, Romain went on and completed his Master's in Biology and Marine Ecosystems in Marseille. He is currently a 3rd year PhD student at the Institute for Marine and Antarctic Studies (IMAS). His research focuses on modelling biodiversity as a complex adaptive system. His general research interests include mathematical modelling and the mechanisms of evolution. 
+After receiving his Bachelor’s degree in Biology of Organisms, Populations and Ecosystems from the Université d’Auvergne Clermont-Ferrand, France, Romain went on and completed his Master’s in Biology and Marine Ecosystems in Marseille, France, with an emphasis on mathematics and modelling.
+
+He is currently a 3rd year PhD student at the Institute for Marine and Antarctic Studies (IMAS). His research aims to model biodiversity as a complex adaptive system. To do so, his PhD focuses on using body size theory and eco-evolutionary dynamics to model how fish communities can adapt to rapid change in their environment such as over-fishing or global warming.
+
