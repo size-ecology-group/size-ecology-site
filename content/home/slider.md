@@ -56,9 +56,9 @@ height = "600px"
   overlay_img = "fish.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-  cta_label ="Get an idea"
+  cta_label ="Find out more"
   cta_url = "https://www.pnas.org/content/early/2019/06/10/1900194116"
   cta_icon_pack = "fa"
-  cta_icon = "temperature-hot"
+  cta_icon = "microscope"
 +++
 
