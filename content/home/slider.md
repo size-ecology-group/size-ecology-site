@@ -30,7 +30,7 @@ height = "600px"
  cta_label ="Read the paper here!"
  cta_url = "https://www.pnas.org/content/early/2019/05/20/1820344116.abstract"
  cta_icon_pack = "fa"
- cta_icon = "cogs"
+ cta_icon = "book-reader"
 
 [[item]]
   title = ""
@@ -40,11 +40,12 @@ height = "600px"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "lysekil.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  # call-to-action buttons
+
+# call-to-action buttons
  cta_label ="Join us in Sweden"
  cta_url = "https://ices.dk/news-and-events/asc/asc2019/Pages/MizerWK.aspx"
  cta_icon_pack = "fa"
- cta_icon = "cogs"
+ cta_icon = "plane-departure"
  
 [[item]]
   title = ""
@@ -55,5 +56,9 @@ height = "600px"
   overlay_img = "fish.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+  cta_label ="Get an idea"
+  cta_url = "https://www.pnas.org/content/early/2019/06/10/1900194116"
+  cta_icon_pack = "fa"
+  cta_icon = "temperature-hot"
 +++
 
