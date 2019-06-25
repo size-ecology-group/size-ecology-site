@@ -85,11 +85,11 @@ address = "20 Castray Esplanade, Battery Point, Hobart, Tasmania"
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
-map_api_key = ""
-latitude = "-42.885947"
-longitude = "147.335866"
-zoom = 15
+#map = 1
+#map_api_key = ""
+#latitude = "-42.885947"
+#longitude = "147.335866"
+#zoom = 15
 
 ############################
 ## Plugins                ##
