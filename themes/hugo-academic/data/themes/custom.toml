@@ -5,15 +5,15 @@ name = "custom"
 light = "true"
 
 # Primary
-primary = "#16A085"
+primary = "#00A550"
 primary_light = "#635D5E"
-primary_dark = "#F50934"
+primary_dark = "#24C2F2"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#F50934"
-menu_text_active = "#16A085"
-menu_title = "#F50934"
+menu_text = "#24C2F2"
+menu_text_active = "#00A550"  #green
+menu_title = "#24C2F2" #blue
 
 # Backgrounds
 background = "#fff"
