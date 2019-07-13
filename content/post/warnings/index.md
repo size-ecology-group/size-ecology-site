@@ -7,14 +7,18 @@ draft: false
 featured: false
 gallery_item:
 - album: gallery
-  caption: North Atlantic cod
-  image: cod.jpeg
+  caption: North Atlantic cod (image credit - NOAA NEFSC)
+  image: atlantic_cod.png
 
+- album: gallery
+  caption: Collapse of North Atlantic cod stocks off the East coast of New Foundland in 1992 (image credit - Philippe Rekacewicz, Emmanuelle Bournay, UNEP/GRID-Arendal)
+  image: NAcod_collapse.jpeg
+  
 image:
   caption: 'Image credit: curiosityandheroin.org'
   focal_point: "center"
   preview_only: false
-lastmod: "2019-04-17T00:00:00Z"
+lastmod: "2019-07-13T00:00:00Z"
 projects: []
 subtitle: 'Short summary of a recent paper by Clements, McCarthy and Blanchard'
 summary: 
