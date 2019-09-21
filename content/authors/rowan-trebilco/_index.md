@@ -53,6 +53,6 @@ user_groups:
 
 ---
 
-Rowan is currently a Research Fellow with Antarctic Climate & Ecosystem Cooperative Research Centre ([ACE CRC](http://acecrc.org.au)), but will be moving into a Research Scientist position with the Commonwealth Scientitic and Industrial Research Organisation, CSIRO, as of July.
+Rowan is a Research Scientist with the Ecosystem Modelling group at CSIRO Oceans and Atmosphere in Hobart and an adjunct Senior Researcher with the Institute of Marine and Antarctic Studies at the University of Tasmania. 
 
-In the CRC, Dr Trebilco’s focus has been on engaging with national and international collaborators to develop models, methods and analyses to facilitate assessment of Southern Ocean ecosystem status and trends, and to advance fundamental understanding of ecosystem structure and function. 
+His diverse research interests centre around disentangling what drives ecosystem structure and function and engaging at the interface between science, decision-making and environmental stewardship. He has worked across theoretical ecosystem ecology, statistical and mechanistic modelling, fisheries and natural resource management, and applications of biochemical tracers to quantify trophic linkages, including several years of fieldwork above and below temperate, tropical, and Southern oceans.
