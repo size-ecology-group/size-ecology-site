@@ -32,20 +32,20 @@ height = "600px"
  cta_icon_pack = "fa"
  cta_icon = "book-reader"
 
-[[item]]
-  title = ""
-  content = "Training and Advances in Size Spectrum Modelling"
-  align = ""
+#[[item]]
+# title = ""
+# content = "Training and Advances in Size Spectrum Modelling"
+# align = ""
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "lysekil.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+# overlay_color = "#333"  # An HTML color value.
+# overlay_img = "lysekil.jpg"  # Image path relative to your `static/img/` folder.
+# overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-# call-to-action buttons
- cta_label ="Join us in Sweden"
- cta_url = "https://ices.dk/news-and-events/asc/asc2019/Pages/MizerWK.aspx"
- cta_icon_pack = "fa"
- cta_icon = "plane-departure"
+# call-to-action button
+# cta_label ="Join us in Sweden"
+# cta_url = "https://ices.dk/news-and-events/asc/asc2019/Pages/MizerWK.aspx"
+# cta_icon_pack = "fa"
+# cta_icon = "plane-departure"
  
 [[item]]
   title = ""
@@ -56,6 +56,7 @@ height = "600px"
   overlay_img = "fish.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+# call-to-action button
   cta_label ="Find out more"
   cta_url = "https://www.pnas.org/content/early/2019/06/10/1900194116"
   cta_icon_pack = "fa"
